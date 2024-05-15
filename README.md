@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-Young web developer still studying in Digital Campus, Bordeaux
+Young web developer still studying in Digital Campus, Bordeaux  
 Alterant at Shokola, Biarritz
 
 My latest projects :
-- 🌸 https://www.fleursoceanes.com/
-- 🍪 https://labruquere.com/
-- 🎨 https://goodbyehippocrate.fr/
+- 🌸 Fleurs Océanes (Wordpress - Alone) https://www.fleursoceanes.com/
+- 🍪 Labruquere (Wordpress - Team ) https://labruquere.com/
+- 🎨 GoodByeHippocrate (Wordpress - Team ) https://goodbyehippocrate.fr/
+
+My portfolio comming soon 🤫
 <!--
 **roroelrigolo/roroelrigolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
