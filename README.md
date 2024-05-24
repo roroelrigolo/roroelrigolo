@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Young web developer still studying in Digital Campus, Bordeaux  
-Alterant at Shokola, Biarritz
+Alternant at Shokola, Biarritz
 
 My latest projects :
 - 🌸 Fleurs Océanes (Wordpress - Alone) https://www.fleursoceanes.com/
