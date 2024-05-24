@@ -3,8 +3,6 @@
 Young web developer still studying in Digital Campus, Bordeaux  
 Alterant at Shokola, Biarritz
 
-Creator of Jey 🟡🔵 : https://jey.xokola.fr/ (Still in developpement) 
-
 My latest projects :
 - 🌸 Fleurs Océanes (Wordpress - Alone) https://www.fleursoceanes.com/
 - 🍪 Labruquere (Wordpress - Team ) https://labruquere.com/
