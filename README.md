@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-Young web developer still studying in Digital Campus, Bordeaux  
-Alternant at Shokola, Biarritz
+My portfolio : https://www.rorofolio.com/
 
-My latest projects :
-- 🌸 Fleurs Océanes (Wordpress - Alone) https://www.fleursoceanes.com/
-- 🍪 Labruquere (Wordpress - Team ) https://labruquere.com/
-- 🎨 GoodByeHippocrate (Wordpress - Team ) https://goodbyehippocrate.fr/
-
-My portfolio comming soon 🤫
+Envoy code and life ✨
 <!--
 **roroelrigolo/roroelrigolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
