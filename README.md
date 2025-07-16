@@ -2,7 +2,7 @@
 
 My portfolio : https://www.rorofolio.com/
 
-Envoy code and life ✨
+Enjoy code and life ✨
 <!--
 **roroelrigolo/roroelrigolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
